@@ -18,3 +18,9 @@ This Data Analysis project aims to generate inssight into the sales performance 
 - SQL for data analysis
 - Power BI(For reporting)
 - MS Powerpoint (For presentation)
+### Expository Data Analysis
+  - What is the overall sales trend
+  - which product are top sellers
+  - what are the product on peak sales?
+
+
