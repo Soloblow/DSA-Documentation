@@ -1,2 +1,11 @@
 # DSA-Documentation
-This is where i started my portfolio building while taking my Data Analysis class with Incubator Hub
+
+This is where i started my portfolio building while taking my Data Analysis class with the Incubator Hub.
+
+I have learnt a lot of things ranging from microsoft excel to sql now currently on portfolio building
+
+## Project Topic: E-commerce Sales Analysis
+
+### Project Overview
+
+This Data Analysis project aims to generate inssight into the sales performance of the E-commerce project overthe past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
